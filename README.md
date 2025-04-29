@@ -65,4 +65,4 @@ Este projeto foi desenvolvido como parte de uma atividade para demonstrar o uso 
 
 ## Desenvolvido por
 
-[Seu Nome]
+João Gabriel Maximiano
